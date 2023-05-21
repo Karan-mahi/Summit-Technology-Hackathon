@@ -1,1 +1,1 @@
-[Video Tutorial](https://github.com/Karan-mahi/Summit-Technology-Hackathon)
+[Video Tutorial](https://drive.google.com/file/d/1bf3zj-rxNUvFJVgP5fSqw8QNoBo2EIqe/view?usp=sharing)
