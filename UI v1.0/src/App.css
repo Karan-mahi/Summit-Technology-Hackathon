@@ -1,0 +1,130 @@
+body {
+  background: #1F263C;
+  color: #C9CACE;
+  padding: auto;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 26vh auto;
+  padding: 2rem;
+  text-align: center;
+  background: #15192A;
+  border-radius: 5px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.upload-container {
+  margin-bottom: 1.5rem;
+}
+
+.upload-button-label {
+  display: block;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 2px dashed #2B5DFF;
+  background-color: transparent;
+  color:#2B5DFF;
+  cursor: pointer;
+}
+
+.file-name {
+  margin-top: 1rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.action-button {
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: #489CFF;
+  color: #fff;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.action-button.active {
+  background-color: #0056b3;
+}
+
+.confirmation-modal {
+  background: rgba(0, 0, 0, 0.9);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.confirmation-modal p {
+  color: #fff;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.confirmation-modal .button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.confirm-button,
+.cancel-button {
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.confirm-button {
+  background-color: #007bff;
+  color: #fff;
+  margin-right: 1rem;
+}
+
+.cancel-button {
+  background-color: #ccc;
+  color: #333;
+}
+
+h3 {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.upload-button-label {
+  display: block;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border: 2px dashed #999;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  cursor: pointer;
+}
+
+.upload-button-label:hover {
+  background-color: rgba(255, 255, 255, 0.3); /* Update the hover background color */
+}

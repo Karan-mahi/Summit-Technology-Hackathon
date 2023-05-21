@@ -1,0 +1,400 @@
+Login Timestamp,User ID,IP Address,Country,Region,City,Browser Name and Version,Device Type,Login Successful
+43:30.8,-4.32448E+18,10.0.65.171,NO,-,-,Firefox 20.0.0.1618,mobile,FALSE
+43:43.5,-4.32448E+18,194.87.207.6,AU,-,-,Chrome Mobile 46.0.2490,mobile,FALSE
+43:55.9,-3.28414E+18,81.167.144.58,NO,Vestland,Urangsvag,Android 2.3.3.2672,mobile,TRUE
+43:56.2,-4.32448E+18,170.39.78.152,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+43:59.4,-4.61885E+18,10.0.0.47,US,Virginia,Ashburn,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+44:05.2,-4.32448E+18,209.236.123.126,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+44:07.9,7.24653E+18,80.202.228.214,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+44:12.8,-3.24398E+18,170.39.78.177,US,-,-,Chrome Mobile 81.0.4044.1931,mobile,FALSE
+44:17.5,8.076E+18,10.0.61.212,NO,-,-,MiuiBrowser 12.6.5,mobile,FALSE
+44:19.1,-3.06594E+18,92.221.109.162,NO,Rogaland,Sandnes,Chrome 69.0.3497.17.28,desktop,TRUE
+44:19.3,5.9325E+18,84.48.61.135,NO,-,-,Chrome 86.0.4202,desktop,TRUE
+44:24.8,-9.08083E+18,156.52.48.83,NO,Viken,Gressvik,Chrome 79.0.3945.192.203,desktop,TRUE
+44:25.8,5.72968E+18,170.39.79.164,US,-,-,Chrome Mobile 80.0.3987,mobile,FALSE
+44:26.8,-4.32448E+18,46.212.51.170,NO,Viken,Klofta,Chrome 86.0.4240.378,desktop,FALSE
+44:29.2,-4.32448E+18,10.0.67.86,NO,Troms og Finnmark,Bjornevatn,Android 2.3.3.2672,mobile,FALSE
+44:30.5,-8.29667E+18,82.147.58.93,NO,Oslo County,Oslo,Android 2.3.3.2672,mobile,TRUE
+44:31.9,-4.66394E+18,81.166.109.168,NO,Rogaland,Haugesund,Chrome 86.0.4202,desktop,TRUE
+44:33.0,-4.32448E+18,115.69.219.34,ID,East Java,Surabaya,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+44:33.1,-4.32448E+18,46.183.175.255,NO,-,-,Chrome 72.0.3626,desktop,FALSE
+44:33.2,1.2113E+18,10.0.77.207,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+44:36.5,6.38664E+18,109.247.53.244,NO,Agder,Byglandsfjord,Android 2.3.3.2672,mobile,TRUE
+44:39.6,-6.82421E+18,81.166.116.24,NO,Rogaland,Stavanger,Chrome 90.0.4411,desktop,TRUE
+44:40.2,9.13347E+18,38.135.39.102,US,-,-,Chrome Mobile 51.0.2704,mobile,FALSE
+44:40.4,-4.32448E+18,92.220.92.118,BR,-,-,Android 2.3.3.2672,mobile,FALSE
+44:40.5,-4.32448E+18,23.137.225.84,US,-,-,Chrome Mobile 80.0.3987,mobile,FALSE
+44:41.7,7.03225E+18,89.162.71.53,NO,Nordland,Mo i Rana,Android 2.3.3.2672,mobile,TRUE
+44:42.0,-4.32448E+18,199.26.84.48,US,-,-,Chrome Mobile 81.0.4044.1943,mobile,FALSE
+44:43.7,8.93372E+18,10.0.113.42,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+44:44.5,-4.32448E+18,79.161.39.219,NO,Viken,Solbergelva,Chrome 90.0.4411,desktop,FALSE
+44:45.5,-6.90264E+18,176.107.153.76,PL,Mazovia,Warsaw,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+44:45.9,1.80813E+18,80.203.221.4,NO,Viken,Hokksund,Android 2.3.3.2672,mobile,TRUE
+44:46.0,2.05367E+18,152.93.187.81,NO,-,-,Chrome 79.0.3945.192.207,desktop,TRUE
+44:46.8,-4.32448E+18,156.52.54.27,NO,Viken,Gressvik,Chrome 85.0.4163,desktop,FALSE
+44:47.7,-6.93373E+18,79.161.194.240,NO,Vestland,Sagvag,Chrome 72.0.3626.56,desktop,TRUE
+44:49.0,-4.32448E+18,10.0.80.237,PL,Mazovia,Zielonka,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+44:49.8,2.70066E+18,141.0.88.74,NO,Rogaland,Sandnes,Android 2.3.3.2672,mobile,TRUE
+44:50.7,-5.37763E+18,115.69.219.34,ID,East Java,Surabaya,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+44:51.9,3.97472E+18,84.209.221.148,NO,Viken,Finstadjordet,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+44:55.5,-5.32583E+18,10.0.108.181,NO,Vestland,Frekhaug,Opera 65.0.3467,desktop,TRUE
+44:56.8,8.84235E+18,92.220.43.111,NO,Vestland,Bergen,Chrome 69.0.3497.17.19,desktop,TRUE
+44:56.8,7.46817E+18,158.149.143.223,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+44:57.3,-7.00488E+18,81.167.44.40,NO,Oslo County,Oslo,Firefox 20.0.0.1618,mobile,TRUE
+44:58.4,1.46133E+18,10.0.77.213,NO,Oslo County,Oslo,Chrome 71.0.3578.36,desktop,TRUE
+45:00.2,-2.12078E+18,156.52.61.165,NO,Viken,Gressvik,Android 2.0.0.2442,mobile,TRUE
+45:04.5,4.5374E+18,10.0.66.212,NO,Vestfold og Telemark,Ulefoss,Chrome 69.0.3497.17.19,desktop,TRUE
+45:04.6,-4.32448E+18,23.137.225.84,US,-,-,Chrome Mobile 80.0.3987,mobile,FALSE
+45:05.3,-4.32448E+18,10.0.105.195,IN,-,-,Firefox 20.0.0.1618,mobile,FALSE
+45:06.6,-4.32448E+18,199.26.84.153,US,-,-,Firefox 20.0.0.1670,mobile,FALSE
+45:07.2,-1.85573E+18,158.248.221.20,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+45:09.6,-4.32448E+18,82.147.51.1,NO,Innlandet,Nord-Fron,Opera Mobile 52.1.2254,mobile,FALSE
+45:10.6,-4.32448E+18,158.149.66.181,NO,-,-,Android 2.3.6,mobile,FALSE
+45:11.6,5.02454E+18,84.234.159.249,NO,Oslo County,Oslo,Android 2.3.3.2672,tablet,FALSE
+45:13.7,-3.52229E+18,209.236.117.198,US,-,-,Chrome Mobile 84.0.4147,mobile,TRUE
+45:14.1,-4.32448E+18,10.0.74.27,NO,Innlandet,Grinder,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+45:14.2,-3.46246E+18,79.161.131.106,NO,Vestfold og Telemark,Kragero,Chrome 69.0.3497.17.19,desktop,TRUE
+45:14.3,-4.32448E+18,80.203.223.105,NO,Viken,Hokksund,Chrome 86.0.4240.378.379,desktop,FALSE
+45:14.3,-4.32448E+18,23.137.225.255,US,-,-,Chrome Mobile 80.0.3987,mobile,FALSE
+45:14.6,-4.32448E+18,79.161.201.19,NO,Viken,Krakeroy,Android 2.3.6,tablet,FALSE
+45:14.8,-4.32448E+18,46.250.196.206,NO,Rogaland,Haugesund,Chrome 69.0.3497.17.19,desktop,FALSE
+45:14.8,6.26652E+18,156.52.83.9,BR,-,-,Opera Mobile 52.1.2254.2413,mobile,TRUE
+45:16.5,-6.62322E+18,170.82.7.240,BR,Sao Paulo,Artur Nogueira,Chrome 69.0.3497.17.19,desktop,FALSE
+45:17.5,-4.32448E+18,78.91.32.1,NO,-,-,Chrome 69.0.3497.17.19,desktop,FALSE
+45:19.0,6.01297E+18,78.91.110.17,NO,Trøndelag,Trondheim,Chrome 72.0.3626.67,desktop,TRUE
+45:19.8,-4.32448E+18,65.111.191.14,US,Florida,Miami,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+45:20.1,-4.32448E+18,158.149.101.124,NO,Innlandet,Folldal,Chrome 90.0.4411,desktop,FALSE
+45:20.2,7.77238E+18,84.234.164.239,NO,Rogaland,Stavanger,Chrome 69.0.3497.17.19,desktop,TRUE
+45:20.5,-5.11956E+18,109.247.231.192,NO,Vestfold og Telemark,Langangen,Android 2.3.3.2672,mobile,TRUE
+45:20.8,-4.32448E+18,23.137.225.255,US,-,-,Chrome Mobile 80.0.3987,mobile,FALSE
+45:21.4,-6.46286E+17,10.0.116.246,NO,-,-,Chrome 90.0.4411,desktop,TRUE
+45:22.4,-4.04267E+18,152.93.111.140,NO,Rogaland,Sandnes,Chrome 69.0.3497.17.19,desktop,TRUE
+45:23.0,8.06118E+18,10.0.56.220,NO,-,-,Opera Mobile 52.1.2254,mobile,FALSE
+45:24.2,8.441E+18,10.0.160.77,NO,Viken,Sem,Chrome 86.0.4202,desktop,TRUE
+45:24.6,8.76471E+18,92.220.155.110,NO,Vestland,Bergen,Chrome 69.0.3497.17.19,desktop,FALSE
+45:25.0,-4.32448E+18,113.21.74.160,IN,West Bengal,Kolkata,Chrome Mobile WebView 80.0.3987,mobile,FALSE
+45:25.2,-7.88402E+17,156.52.54.27,NO,Viken,Gressvik,Chrome 85.0.4163,desktop,FALSE
+45:25.4,-6.19463E+18,66.68.233.240,US,Texas,McAllen,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+45:25.7,9.00602E+18,51.175.159.252,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,tablet,TRUE
+45:27.0,-3.93243E+18,187.73.163.218,BR,Minas Gerais,Machado,Chrome 69.0.3497.17.19,desktop,FALSE
+45:27.2,-2.58906E+18,152.93.19.142,NO,Rogaland,Sandnes,Android 2.0,mobile,TRUE
+45:27.8,4.14354E+18,80.203.192.188,NO,Oslo County,Oslo,Chrome 72.0.3626.55,desktop,TRUE
+45:30.2,-4.32448E+18,10.0.1.33,DK,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+45:30.3,-4.32448E+18,103.20.90.20,ID,East Java,Surabaya,Opera Mini 19.0.2254,mobile,FALSE
+45:31.2,7.30645E+18,176.107.143.231,PL,Mazovia,Warsaw,Firefox 20.0.0.1681,mobile,TRUE
+45:31.6,-4.32448E+18,158.149.139.54,NO,-,-,Firefox 20.0.0.1618,mobile,FALSE
+45:31.6,4.62384E+18,92.221.154.154,NO,Møre og Romsdal,Kleppe,Android 2.3.3.2672,mobile,TRUE
+45:32.8,-7.43198E+17,80.203.214.75,NO,Viken,Hokksund,Chrome 72.0.3626.56,desktop,TRUE
+45:33.0,4.6852E+17,66.68.93.191,US,Texas,Austin,Firefox 20.0.0.1618,mobile,TRUE
+45:35.6,1.54626E+18,10.0.160.26,NO,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+45:36.3,2.07002E+18,37.97.17.9,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+45:36.4,4.94498E+17,37.148.220.204,AU,-,-,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+45:36.6,-5.62423E+18,158.248.40.182,NO,Vestland,Bergen,Android 2.0.0.2442,mobile,FALSE
+45:37.3,-4.32448E+18,176.97.52.166,PL,Warmia-Masuria,Bartoszyce,Android 2.2.0.2630,mobile,FALSE
+45:37.7,-4.32448E+18,109.74.191.177,NO,Viken,Naersnes,Chrome 69.0.3497.17.19,desktop,FALSE
+45:38.2,4.59198E+18,109.247.220.88,NO,Vestland,Bergen,Chrome 86.0.4202,desktop,TRUE
+45:40.1,-6.37106E+18,109.74.176.207,NO,Oslo County,Oslo,Chrome 90.0.4411,desktop,TRUE
+45:40.9,-4.32448E+18,77.106.146.79,NO,Innlandet,Raufoss,Chrome 90.0.4411,desktop,FALSE
+45:42.3,-3.24398E+18,170.39.78.177,US,-,-,Chrome Mobile 81.0.4044.1931,mobile,TRUE
+45:43.1,1.15772E+18,109.247.25.17,NO,Agder,Lindesnes,Chrome 69.0.3497.17.19,desktop,TRUE
+45:44.4,3.8496E+17,23.137.225.194,US,-,-,Firefox 20.0.0.1618,mobile,FALSE
+45:44.6,-5.01E+18,10.0.62.13,NO,Viken,Trollasen,Chrome 87.0.4280.408.410,mobile,TRUE
+45:44.8,-2.28E+18,37.191.196.113,NO,Oslo County,Oslo,Chrome 86.0.4202,desktop,TRUE
+45:46.9,4.95E+18,81.166.160.19,NO,Viken,Mjondalen,Android 2.3.3.2672,mobile,TRUE
+45:49.9,-4.32E+18,156.52.83.9,BR,-,-,Opera Mobile 52.1.2254.2413,mobile,FALSE
+45:51.7,-4.32E+18,23.137.224.144,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+45:51.8,5.96E+18,88.218.208.3,DE,-,-,Chrome Mobile WebView 80.0.3987,mobile,TRUE
+45:52.3,-3.04E+18,139.164.104.59,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+45:53.0,5.85E+18,95.169.60.0,NO,Innlandet,Lillehammer,Chrome 90.0.4411,desktop,TRUE
+45:53.3,6.31E+18,92.221.250.22,NO,Viken,Sandvika,Chrome 79.0.3945.192.218,desktop,TRUE
+45:53.6,-5.08E+18,10.0.61.93,NO,Oslo County,Oslo,Android 2.3.6,mobile,TRUE
+45:53.8,-4.98E+18,37.191.170.240,NO,Oslo County,Oslo,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+45:54.5,-4.32E+18,156.52.83.9,BR,-,-,Chrome 72.0.3626.58,desktop,FALSE
+45:54.9,-4.32E+18,209.236.117.212,US,-,-,Chrome Mobile WebView 80.0.3987,mobile,FALSE
+45:55.5,-3.83E+18,139.164.62.62,NO,-,-,Chrome 86.0.4202,desktop,TRUE
+45:56.3,2.93E+18,185.82.200.219,AU,-,-,Chrome Mobile 51.0.2704,mobile,TRUE
+45:56.8,-4.32E+18,10.0.117.53,NO,Vestland,Askvoll,Android 2.3.3.2672,mobile,FALSE
+45:57.0,-4.32E+18,176.107.142.131,PL,Mazovia,Warsaw,Chrome Mobile WebView 78.0.3904,mobile,FALSE
+45:57.4,-4.32E+18,170.39.76.210,US,-,-,Chrome Mobile 63.0.3239,mobile,FALSE
+46:00.3,-6.47E+18,158.248.119.61,NO,Vestland,Bergen,Chrome 86.0.4202,desktop,TRUE
+46:00.9,8.28E+18,170.39.78.252,US,-,-,Snapchat 11.8.1,mobile,FALSE
+46:01.4,-9.05E+18,139.164.54.1,NO,-,-,Chrome 79.0.3945.192.203,desktop,TRUE
+46:02.1,-4.32E+18,199.26.84.170,US,-,-,Chrome Mobile 81.0.4044.1931,mobile,FALSE
+46:02.3,-4.32E+18,10.0.181.179,BD,-,-,Chrome 84.0.4147.338.339,desktop,FALSE
+46:02.4,-7.60E+18,81.166.246.255,NO,Rogaland,Haugesund,Edge 81.0.416,desktop,TRUE
+46:02.6,9.13E+18,38.135.39.102,US,-,-,Chrome Mobile 51.0.2704,mobile,TRUE
+46:04.8,-4.32E+18,176.107.143.231,PL,Mazovia,Warsaw,Firefox 20.0.0.1681,mobile,FALSE
+46:08.2,-1.53E+18,10.0.175.82,NO,Vestland,Torvikbygd,Chrome 69.0.3497.17.19,desktop,TRUE
+46:08.5,-8.30E+18,82.147.58.93,NO,Oslo County,Oslo,Android 2.3.3.2672,mobile,TRUE
+46:08.6,-8.76E+18,10.0.183.40,MD,Telenesti,Cazanesti,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+46:09.1,-7.21E+18,170.39.78.176,US,-,-,Chrome Mobile 81.0.4044.2000,mobile,TRUE
+46:09.4,9.13E+18,38.135.39.102,US,-,-,Chrome Mobile 51.0.2704,mobile,TRUE
+46:10.4,-4.32E+18,80.211.248.182,PL,Mazovia,Warsaw,Chrome Mobile 81.0.4044.1949,mobile,FALSE
+46:10.6,-4.32E+18,92.221.154.154,NO,Møre og Romsdal,Kleppe,Android 2.3.3.2672,mobile,FALSE
+46:11.5,-4.32E+18,27.123.0.40,ID,Jakarta,Jakarta,Android 2.3.3.2672,mobile,FALSE
+46:11.8,-2.88E+18,80.69.202.186,DE,Hesse,Witzenhausen,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+46:12.0,7.60E+18,51.175.59.45,NO,Viken,Solbergelva,Chrome 69.0.3497.17.19,desktop,FALSE
+46:12.8,-4.32E+18,185.82.200.219,AU,-,-,Chrome Mobile 51.0.2704,mobile,FALSE
+46:13.2,-1.64E+18,158.149.18.107,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+46:14.4,-4.32E+18,77.106.161.131,NO,Innlandet,Fagernes,Chrome 69.0.3497.17.19,desktop,FALSE
+46:15.4,5.44E+18,170.39.76.210,US,-,-,Chrome Mobile 63.0.3239,mobile,TRUE
+46:16.2,-4.32E+18,10.0.105.195,IN,-,-,Firefox 20.0.0.1618,mobile,FALSE
+46:16.7,8.73E+17,103.250.151.168,IN,Gujarat,Siddhapur,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+46:17.5,8.80E+18,79.161.95.103,NO,Viken,Moss,Edge 81.0.416,desktop,TRUE
+46:18.2,-4.32E+18,79.160.104.53,BR,-,-,Android 2.3.3.2672,mobile,FALSE
+46:19.1,-6.86E+18,152.93.4.37,NO,Rogaland,Sandnes,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+46:21.7,-4.32E+18,83.243.253.230,NO,Møre og Romsdal,Ålesund,Android 2.3.3.2672,mobile,FALSE
+46:21.7,-6.62E+18,81.166.20.84,BR,-,-,Android 2.3.3.2672,mobile,FALSE
+46:22.2,-4.32E+18,10.0.105.195,IN,-,-,Firefox 20.0.0.1618,mobile,FALSE
+46:22.8,3.69E+18,51.174.41.230,NO,Rogaland,Stavanger,Chrome 69.0.3497.17.19,desktop,TRUE
+46:25.2,-4.11E+18,89.162.1.49,NO,Nordland,Bodø,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+46:25.3,-4.32E+18,10.0.160.153,NO,-,-,Opera 65.0.3467,desktop,FALSE
+46:25.8,-4.32E+18,37.191.162.246,NO,Oslo County,Oslo,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+46:27.3,-5.66E+18,84.209.10.130,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+46:27.9,4.47E+18,37.97.12.76,NO,-,-,Chrome 69.0.3497.17.19,desktop,FALSE
+46:28.2,-6.01E+18,10.0.183.198,NO,Oslo County,Oslo,Chrome 72.0.3626.75,desktop,TRUE
+46:28.5,-4.32E+18,10.0.187.218,NL,North Holland,Amsterdam,Chrome Mobile 51.0.2704,mobile,FALSE
+46:28.5,8.51E+18,182.50.190.42,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+46:28.7,-1.86E+18,10.0.77.224,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+46:29.1,-3.93E+18,141.0.65.73,NO,Vestfold og Telemark,Sandefjord,Chrome 69.0.3497.17.19,desktop,TRUE
+46:29.2,-4.32E+18,46.212.29.200,NO,Viken,Nesodden,Chrome 69.0.3497.17.19,desktop,FALSE
+46:29.9,-1.65E+18,170.39.76.220,US,-,-,Chrome Mobile WebView 81.0.4044,mobile,FALSE
+46:31.2,-4.32E+18,209.236.125.148,US,-,-,Chrome Mobile 81.0.4044.1923,mobile,FALSE
+46:31.5,5.73E+18,170.39.79.164,US,-,-,Chrome Mobile 80.0.3987,mobile,TRUE
+46:31.6,-4.32E+18,84.209.221.148,NO,Viken,Finstadjordet,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+46:31.6,5.67E+18,37.148.147.78,NO,Innlandet,Heradsbygd,Chrome 79.0.3945.192.209,desktop,FALSE
+46:31.8,-4.32E+18,115.69.219.34,ID,East Java,Surabaya,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+46:32.0,-7.19E+18,79.161.166.165,NO,Vestfold og Telemark,Notodden,Chrome Mobile WebView 88.0.4324,mobile,TRUE
+46:33.0,5.31E+18,46.212.44.24,NO,Oslo County,Oslo,Firefox 20.0.0.1673,mobile,TRUE
+46:33.4,-4.32E+18,77.106.167.186,NO,Innlandet,Valer,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+46:34.5,7.98E+18,77.222.210.42,BR,-,-,Firefox 20.0.0.1618,mobile,FALSE
+46:34.8,-8.80E+17,46.250.220.132,NO,Rogaland,Sandnes,Chrome 90.0.4411,desktop,TRUE
+46:35.0,-4.32E+18,10.0.70.37,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,FALSE
+46:37.0,-5.95E+18,10.0.160.77,NO,Viken,Sem,Chrome 69.0.3497.17.19,desktop,TRUE
+46:37.9,-8.59E+18,51.175.211.164,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+46:38.2,-8.80E+18,158.149.51.57,NO,-,-,Chrome Mobile 78.0.3904,mobile,TRUE
+46:39.2,-6.31E+18,158.149.88.189,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+46:40.0,-7.19E+18,79.161.166.165,NO,Vestfold og Telemark,Notodden,Chrome Mobile WebView 88.0.4324,mobile,TRUE
+46:42.4,-3.82E+18,10.0.77.227,NO,Oslo County,Oslo,Chrome 90.0.4411,desktop,TRUE
+46:42.9,-4.32E+18,170.39.78.175,US,-,-,Android 2.2.2,mobile,FALSE
+46:44.1,-4.32E+18,81.166.183.10,NO,Vestfold og Telemark,Sandefjord,Chrome Mobile WebView 80.0.3987,mobile,FALSE
+46:44.9,-4.32E+18,10.0.3.89,RO,-,-,Chrome 72.0.3626.115,desktop,FALSE
+46:45.1,-4.32E+18,10.0.3.72,RO,Buzau,Rusetu,Chrome 72.0.3626.115,desktop,FALSE
+46:45.8,-4.07E+18,85.234.129.237,GB,-,-,Edge 87.0.664,desktop,TRUE
+46:46.6,4.62E+18,92.221.154.154,NO,Møre og Romsdal,Kleppe,Android 2.3.3.2672,mobile,FALSE
+46:46.7,3.69E+18,152.93.211.99,NO,Rogaland,Sola,Chrome Mobile WebView 80.0.3987,mobile,TRUE
+46:47.2,6.71E+18,10.0.70.37,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+46:48.3,-2.59E+18,170.0.93.65,AR,Entre Rios,Gualeguaychú,Android 2.3.3.2672,mobile,TRUE
+46:50.7,4.88E+18,152.93.126.46,NO,Rogaland,Sandnes,Android 2.3.3.2672,mobile,TRUE
+46:50.8,-4.32E+18,81.167.121.189,NO,Innlandet,Brandbu,Chrome 86.0.4202,desktop,FALSE
+46:51.3,-2.81E+18,77.106.138.231,NO,Innlandet,Lillehammer,Firefox 20.0.0.1673,mobile,TRUE
+46:51.9,3.05E+18,77.106.169.122,NO,Oslo County,Oslo,Android 2.3.3.2672,mobile,TRUE
+46:52.0,-4.32E+18,77.72.58.219,FI,Uusimaa,Helsinki,Chrome Mobile 80.0.3987,mobile,FALSE
+46:52.5,-4.32E+18,170.39.76.220,US,-,-,Chrome Mobile WebView 81.0.4044,mobile,FALSE
+46:52.9,-4.32E+18,94.198.241.134,CZ,Hlavni mesto Praha,Prague,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+46:53.4,-4.32E+18,170.39.78.28,US,-,-,Chrome Mobile 81.0.4044.1944,mobile,FALSE
+46:53.6,-4.32E+18,151.236.47.206,GB,England,Reading,Chrome 72.0.3626.90,desktop,FALSE
+46:53.9,-7.32E+18,10.0.160.62,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+46:55.5,9.19E+18,10.0.183.79,RO,Arges,Curtea de Arges,Chrome 69.0.3497.17.19,desktop,TRUE
+46:55.7,-4.32E+18,170.39.78.177,US,-,-,Chrome Mobile 81.0.4044.1931,mobile,FALSE
+46:56.2,-4.32E+18,10.0.64.42,NO,-,-,Chrome 90.0.4411,desktop,FALSE
+46:59.7,-1.38E+18,87.248.6.83,NO,Innlandet,Gjøvik,Chrome 69.0.3497.17.19,desktop,TRUE
+47:01.4,-8.02E+18,84.234.254.197,NO,Rogaland,Stavanger,Chrome 86.0.4202,desktop,TRUE
+47:01.7,-4.32E+18,170.39.77.254,US,-,-,Chrome Mobile 63.0.3239,mobile,FALSE
+47:02.4,-6.80E+18,10.0.176.106,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+47:03.1,1.85E+18,23.137.225.177,US,-,-,Android 2.2.2.2634,mobile,TRUE
+47:03.5,-3.71E+18,199.26.84.65,US,-,-,IE Mobile 11.0,mobile,FALSE
+47:03.7,-5.38E+18,115.69.219.34,ID,East Java,Surabaya,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+47:03.8,3.69E+18,95.130.223.186,NO,Viken,Fornebu,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+47:04.1,-2.96E+18,10.0.188.217,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+47:05.6,-7.47E+18,170.39.78.201,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+47:09.8,-3.28E+18,81.167.144.58,NO,Vestland,Urangsvag,Android 2.3.3.2672,mobile,TRUE
+47:11.0,-8.74E+18,193.26.147.135,CA,-,-,Chrome Mobile 81.0.4044.1950,mobile,TRUE
+47:11.7,3.97E+18,84.209.221.148,NO,Viken,Finstadjordet,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+47:12.1,3.16E+18,10.0.190.120,FR,North,Roubaix,Chrome 69.0.3497.17.19,desktop,TRUE
+47:13.2,-4.80E+17,87.248.28.16,NO,Innlandet,Gjøvik,Chrome 86.0.4202,desktop,TRUE
+47:14.1,-6.57E+18,92.221.168.50,NO,Oslo County,Oslo,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+47:14.5,-4.32E+18,79.161.71.15,NO,Vestland,Stord,Opera Mini 20.0.2254,tablet,FALSE
+47:15.4,2.95E+18,92.221.9.238,NO,Rogaland,Stavanger,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+47:15.7,-4.32E+18,77.106.130.37,NO,Innlandet,Loten,Android 2.3.3.2672,tablet,FALSE
+47:15.8,-5.10E+18,84.48.135.147,NO,Vestland,Florvag,Chrome 69.0.3497.17.19,desktop,FALSE
+47:17.4,-8.10E+18,187.0.108.29,BR,Parana,Cambe,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+47:18.0,-1.48E+18,92.221.16.110,NO,Rogaland,Stavanger,Chrome 69.0.3497.17.19,desktop,TRUE
+47:18.6,-4.32E+18,81.167.121.189,NO,Innlandet,Brandbu,Chrome 86.0.4202,desktop,FALSE
+47:22.0,-4.32E+18,81.166.183.10,NO,Vestfold og Telemark,Sandefjord,Chrome Mobile WebView 80.0.3987,mobile,FALSE
+47:22.3,-4.32E+18,79.160.141.134,NO,Innlandet,Lillehammer,Android 2.3.3.2672,mobile,FALSE
+47:22.8,7.22E+18,80.203.101.31,NO,Viken,Fetsund,Chrome 69.0.3497.17.19,desktop,TRUE
+47:23.7,-1.53E+18,31.185.28.50,NO,Viken,Fetsund,Firefox 20.0.0.1673,mobile,TRUE
+47:24.2,-1.77E+18,89.238.76.118,DE,-,-,MiuiBrowser 12.5.10,mobile,TRUE
+47:25.5,-4.32E+18,66.248.237.86,US,-,-,Chrome Mobile 81.0.4044.2000,mobile,FALSE
+47:25.9,2.93E+18,185.82.200.219,AU,-,-,Chrome Mobile 51.0.2704,mobile,TRUE
+47:28.0,-6.82E+18,81.166.116.24,NO,Rogaland,Stavanger,Chrome 90.0.4411,desktop,FALSE
+47:28.2,8.06E+18,84.209.223.253,NO,Viken,Finstadjordet,Android 2.3.3.2672,mobile,TRUE
+47:28.3,5.24E+18,80.203.223.105,NO,Viken,Hokksund,Chrome 86.0.4240.378.379,desktop,FALSE
+47:29.0,-4.32E+18,109.74.191.177,NO,Viken,Naersnes,Chrome 69.0.3497.17.19,desktop,FALSE
+47:29.3,-4.32E+18,185.70.97.110,TR,-,-,Chrome Mobile 81.0.4044.1949,mobile,FALSE
+47:29.4,-4.32E+18,193.57.249.3,FR,-,-,Chrome 69.0.3497.17.19,desktop,FALSE
+47:29.7,3.36E+18,10.0.237.23,BR,-,-,Chrome 86.0.4202,desktop,TRUE
+47:30.0,-2.31E+18,156.52.189.44,NO,Viken,Fredrikstad,Chrome 69.0.3497.17.19,desktop,TRUE
+47:30.6,-4.32E+18,51.174.176.62,BR,-,-,Android 2.3.3.2672,mobile,FALSE
+47:30.9,-5.41E+18,152.93.193.190,NO,Rogaland,Sola,Android 2.3.6,mobile,TRUE
+47:31.6,-8.50E+18,81.166.237.7,NO,Vestfold og Telemark,Larvik,Android 2.3.3.2672,mobile,TRUE
+47:32.1,-4.32E+18,194.152.35.141,RU,Moscow,Moscow,Chrome 69.0.3497.17.28,desktop,FALSE
+47:33.2,-4.32E+18,194.152.35.141,RU,Moscow,Moscow,Chrome 69.0.3497.17.28,desktop,FALSE
+47:34.1,8.77E+18,37.191.183.221,NO,Oslo County,Oslo,Android 2.0.0.2442,tablet,TRUE
+47:34.7,1.79E+18,77.106.163.162,NO,Innlandet,Hamar,Chrome 69.0.3497.17.19,desktop,TRUE
+47:34.9,-4.88E+18,81.166.191.168,NO,Vestland,Stord,Android 2.3.6,mobile,TRUE
+47:35.2,7.13E+18,10.1.18.152,NO,-,-,Chrome 69.0.3497.17.19,desktop,FALSE
+47:35.2,-7.88E+17,156.52.54.27,NO,Viken,Gressvik,Chrome 85.0.4163,desktop,TRUE
+47:35.9,-6.68E+18,193.150.121.180,NO,-,-,Chrome 90.0.4411,desktop,FALSE
+47:36.1,-4.32E+18,185.146.96.19,PL,Greater Poland,Suchy Las,Chrome 69.0.3497.17.19,desktop,FALSE
+47:36.2,5.15E+18,23.137.225.199,US,-,-,Chrome Mobile 81.0.4044.1949,mobile,TRUE
+47:37.2,1.11E+18,10.1.34.79,ID,Bali,Denpasar,Chrome 90.0.4411,desktop,TRUE
+47:39.4,-4.32E+18,66.68.155.15,US,Texas,Wimberley,Chrome Mobile WebView 81.0.4044,mobile,FALSE
+47:39.5,6.25E+18,91.189.179.79,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+47:39.9,-4.32E+18,10.0.105.195,IN,-,-,Firefox 20.0.0.1618,mobile,FALSE
+47:40.1,-3.27E+18,193.234.39.57,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+47:40.9,5.51E+18,158.149.137.8,NO,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+47:41.5,-4.32E+18,158.149.139.54,NO,-,-,Firefox 20.0.0.1618,mobile,FALSE
+47:41.7,-1.14E+18,82.194.215.54,NO,Trøndelag,Trondheim,Firefox 20.0.0.1618,mobile,TRUE
+47:41.9,-4.32E+18,10.1.30.239,AR,Entre Rios,Federal,Chrome Mobile WebView 80.0.3987,mobile,FALSE
+47:42.3,9.06E+18,91.90.110.43,NO,-,-,Edge 87.0.664,desktop,TRUE
+47:43.4,-1.94E+17,213.162.247.31,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+47:43.8,-6.33E+18,10.0.77.26,NO,Oslo County,Oslo,Edge 81.0.416,desktop,TRUE
+47:47.3,-3.93E+18,141.0.65.73,NO,Vestfold og Telemark,Sandefjord,Chrome 69.0.3497.17.19,desktop,TRUE
+47:47.9,4.57E+18,84.209.15.187,NO,Oslo County,Oslo,Chrome 72.0.3626,desktop,TRUE
+47:51.0,4.73E+18,188.228.52.151,BR,-,-,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+47:51.9,-3.41E+18,10.1.29.100,NO,Vestfold og Telemark,Holmestrand,Chrome 69.0.3497.17.19,desktop,TRUE
+47:53.0,7.20E+18,10.0.183.163,NO,-,-,Edge 87.0.664,desktop,TRUE
+47:53.3,-4.32E+18,10.0.160.26,NO,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+47:54.7,-4.32E+18,89.238.76.118,DE,-,-,MiuiBrowser 12.5.10,mobile,FALSE
+47:56.1,-4.32E+18,209.236.117.238,US,-,-,Firefox 20.0.0.1775,mobile,FALSE
+47:56.6,8.21E+18,84.210.101.109,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+47:56.8,-4.32E+18,23.137.224.131,US,-,-,Snapchat 11.8.1,mobile,FALSE
+47:56.8,-3.16E+18,93.94.12.128,NO,Vestland,Kleppesto,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+47:57.5,8.59E+18,81.167.108.115,NO,Nordland,Gravdal,Chrome 69.0.3497.17.19,desktop,FALSE
+47:57.9,-7.80E+18,10.0.64.41,NO,-,-,Android 2.3.3.2672,mobile,FALSE
+47:58.3,8.01E+18,10.1.39.85,NO,Oslo County,Oslo,Chrome 90.0.4411,desktop,TRUE
+47:58.4,7.13E+18,10.1.18.152,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+47:58.6,-4.32E+18,10.0.181.212,AR,Buenos Aires,Villa Ventana,Chrome 84.0.4147.338.339,desktop,FALSE
+47:59.7,-4.32E+18,23.137.225.139,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+48:00.3,5.26E+18,83.243.162.119,NO,Møre og Romsdal,Ålesund,Chrome 79.0.3945.192.203,desktop,TRUE
+48:00.4,-4.32E+18,10.1.38.113,IN,Maharashtra,Mumbai,Chrome Mobile WebView 80.0.3987,mobile,FALSE
+48:01.1,-4.32E+18,10.1.38.113,IN,Maharashtra,Mumbai,Chrome Mobile WebView 80.0.3987,mobile,FALSE
+48:01.8,3.75E+18,156.52.228.113,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+48:01.9,-4.32E+18,81.166.70.207,NO,Rogaland,Stavanger,Android 2.3.3.2672,mobile,FALSE
+48:02.5,6.87E+18,23.137.224.28,US,-,-,Chrome Mobile 81.0.4044.2917.2918,mobile,FALSE
+48:03.0,-7.54E+16,95.169.39.203,NO,Innlandet,Tynset,Chrome 69.0.3497.17.19,desktop,TRUE
+48:03.2,-4.32E+18,152.93.38.9,NO,-,-,Chrome 86.0.4202,desktop,FALSE
+48:03.3,6.29E+18,158.149.76.8,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+48:04.8,7.83E+18,137.47.0.6,NO,-,-,Android 2.3.3.2672,mobile,TRUE
+48:05.4,-4.32E+18,84.48.83.61,NO,-,-,Chrome 72.0.3626,desktop,FALSE
+48:07.0,-4.32E+18,77.106.186.39,NO,Innlandet,Ringebu,Chrome 69.0.3497.17.19,desktop,FALSE
+48:07.2,-4.32E+18,81.167.160.25,NO,Viken,Moss,Chrome 69.0.3497.17.19,desktop,FALSE
+48:07.3,-4.11E+18,89.162.1.49,NO,Nordland,Bodø,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+48:07.3,5.41E+18,83.243.159.223,NO,Møre og Romsdal,Stranda,Android 2.3.6,mobile,TRUE
+48:07.5,1.51E+17,10.0.77.229,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+48:09.8,-5.02E+18,31.172.168.14,PL,-,-,Firefox 20.0.0.1618,mobile,FALSE
+48:10.1,7.80E+18,10.0.4.50,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+48:10.4,-4.80E+18,10.0.77.221,NO,Viken,Harestua,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+48:11.0,1.09E+18,193.57.249.3,FR,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+48:11.7,-4.32E+18,156.52.83.9,BR,-,-,Chrome 72.0.3626.58,desktop,FALSE
+48:12.9,-4.32E+18,209.236.117.138,US,-,-,Chrome Mobile 80.0.3987,mobile,FALSE
+48:14.5,8.62E+18,66.248.237.86,US,-,-,Chrome Mobile 81.0.4044.2000,mobile,TRUE
+48:14.8,-2.11E+18,81.166.229.55,NO,Oslo County,Oslo,Android 2.3.3.2672,mobile,TRUE
+48:16.6,-4.38E+18,66.248.237.177,US,-,-,Chrome Mobile 50.0.2661,mobile,FALSE
+48:17.5,-4.32E+18,10.0.187.218,NL,North Holland,Amsterdam,Chrome Mobile 51.0.2704,mobile,FALSE
+48:17.8,-2.33E+18,77.106.161.131,NO,Innlandet,Fagernes,Chrome 69.0.3497.17.19,desktop,TRUE
+48:18.1,-5.04E+18,109.247.40.98,NO,Møre og Romsdal,Molde,Chrome Mobile 78.0.3904,mobile,FALSE
+48:19.7,-7.32E+18,95.164.128.226,US,Wyoming,Cheyenne,Chrome Mobile 81.0.4044.1948,mobile,FALSE
+48:22.2,5.52E+18,152.93.188.154,NO,-,-,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+48:23.7,-4.32E+18,209.236.123.16,US,-,-,Firefox 20.0.0.1618,mobile,FALSE
+48:24.6,-3.19E+18,89.162.103.125,NO,Nordland,Mosjøen,Chrome 69.0.3497.17.19,desktop,TRUE
+48:25.2,4.57E+18,81.166.70.207,NO,Rogaland,Stavanger,Android 2.3.3.2672,mobile,TRUE
+48:25.9,-2.59E+18,209.236.123.126,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+48:26.4,-7.07E+18,10.0.64.42,NO,-,-,Chrome 90.0.4411,desktop,TRUE
+48:27.1,-2.23E+18,81.166.95.166,NO,Rogaland,Kvernaland,Android 2.3.3.2672,mobile,TRUE
+48:27.5,-4.32E+18,156.52.26.234,NO,-,-,Chrome 79.0.3945.192.203,desktop,FALSE
+48:28.2,-6.95E+18,92.220.82.69,NO,Agder,Eydehavn,Chrome 72.0.3626.68,desktop,TRUE
+48:28.4,-4.32E+18,209.236.125.164,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+48:29.1,-4.32E+18,158.248.81.184,BR,-,-,Android 2.3.3.2672,mobile,FALSE
+48:30.1,4.47E+18,74.112.110.190,US,Mississippi,Louin,Chrome Mobile 81.0.4044.1991,mobile,FALSE
+48:33.8,4.75E+18,2.148.9.26,NO,Møre og Romsdal,Ålesund,Chrome 69.0.3497.17.19,desktop,TRUE
+48:34.2,-4.70E+17,10.1.30.150,NO,Møre og Romsdal,Ytrehovden,Firefox 20.0.0.1618,mobile,TRUE
+48:34.3,-8.31E+18,10.0.117.54,NO,-,-,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+48:34.6,3.05E+18,84.208.181.25,NO,Oslo County,Oslo,Chrome 90.0.4411,desktop,FALSE
+48:35.1,-2.00E+18,84.48.103.235,NO,-,-,Android 2.3.3.2672,mobile,TRUE
+48:35.5,8.43E+18,139.164.65.202,NO,-,-,Chrome 79.0.3945.192.203,desktop,TRUE
+48:36.4,-7.75E+18,81.166.19.165,NO,Oslo County,Oslo,Chrome 72.0.3626.67,desktop,TRUE
+48:36.5,1.26E+18,10.1.105.208,BR,Bahia,Capim Grosso,Chrome 79.0.3945.192.203,desktop,FALSE
+48:38.3,-7.21E+18,51.175.58.162,NO,Viken,Drammen,Chrome 69.0.3497.17.19,desktop,FALSE
+48:39.5,-5.69E+18,82.147.59.119,NO,Innlandet,Brumunddal,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+48:40.9,-4.32E+18,158.248.81.184,BR,-,-,Android 2.3.3.2672,mobile,FALSE
+48:41.4,8.06E+18,10.0.56.220,NO,-,-,Opera Mobile 52.1.2254,mobile,TRUE
+48:41.5,3.40E+18,92.221.207.198,NO,Vestland,Bergen,Firefox 20.0.0.1618,mobile,TRUE
+48:42.2,7.60E+18,51.175.59.45,NO,Viken,Solbergelva,Chrome 69.0.3497.17.19,desktop,TRUE
+48:42.9,-8.19E+18,209.42.202.168,GB,-,-,Chrome Mobile 81.0.4044.1943,mobile,TRUE
+48:43.2,-7.73E+18,84.234.224.75,NO,Innlandet,Gran,Chrome Mobile WebView 69.0.3497,tablet,FALSE
+48:43.7,-4.34E+18,10.0.61.18,NO,-,-,Android 2.3.3.2672,mobile,TRUE
+48:44.0,-4.32E+18,92.221.201.142,NO,Vestland,Bergen,Opera Mobile 52.1.2254,mobile,FALSE
+48:44.5,-3.53E+18,10.0.4.56,DK,Central Jutland,Hjerm,Chrome 90.0.4411,desktop,TRUE
+48:45.1,-4.32E+18,170.39.78.202,US,-,-,Chrome Mobile 49.0.2623,mobile,FALSE
+48:45.5,-6.22E+17,109.74.191.177,NO,Viken,Naersnes,Chrome 69.0.3497.17.19,desktop,FALSE
+48:46.0,6.37E+18,10.1.39.86,NO,Trøndelag,Leka,Chrome 90.0.4411,desktop,TRUE
+48:46.5,-4.32E+18,10.2.67.143,RO,-,-,Chrome Mobile 81.0.4044.1961,mobile,FALSE
+48:47.8,-4.32E+18,10.0.237.23,BR,-,-,Chrome 86.0.4202,desktop,FALSE
+48:49.6,-4.32E+18,139.164.200.28,BR,-,-,Chrome 86.0.4202,desktop,FALSE
+48:49.9,-5.81E+18,109.74.179.126,NO,Oslo County,Oslo,Chrome 72.0.3626.86,desktop,TRUE
+48:50.3,-5.10E+18,10.2.68.41,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+48:51.2,-7.15E+18,158.149.22.5,NO,-,-,Chrome 69.0.3497.17.19,tablet,TRUE
+48:51.6,-4.32E+18,24.55.32.8,US,Texas,Austin,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+48:52.0,-4.32E+18,10.0.77.226,NO,-,-,Chrome 69.0.3497.17.19,desktop,FALSE
+48:52.3,-4.32E+18,170.39.79.9,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+48:52.9,-6.52E+18,84.208.48.173,NO,Oslo County,Oslo,Edge 81.0.416,desktop,TRUE
+48:53.3,5.24E+18,80.203.223.105,NO,Viken,Hokksund,Chrome Mobile WebView 85.0.4183,mobile,FALSE
+48:53.8,-5.60E+18,92.221.104.18,BR,-,-,Chrome 79.0.3945.192.203,desktop,TRUE
+48:55.6,-4.32E+18,66.68.155.15,US,Texas,Wimberley,Chrome Mobile WebView 81.0.4044,mobile,FALSE
+48:55.9,2.21E+18,209.236.125.90,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+48:56.2,-4.32E+18,10.2.70.109,NO,-,-,Chrome 72.0.3626.55,desktop,FALSE
+48:56.3,-4.32E+18,77.106.186.39,NO,Innlandet,Ringebu,Chrome 69.0.3497.17.19,desktop,FALSE
+48:56.3,-9.26E+17,84.48.83.61,NO,-,-,Chrome 72.0.3626,desktop,TRUE
+48:56.9,3.71E+18,46.250.197.53,NO,Rogaland,Haugesund,Chrome 72.0.3626,desktop,FALSE
+48:57.3,-4.32E+18,176.126.71.154,DE,Saarland,Saarbrücken,Chrome Mobile WebView 87.0.4280,mobile,FALSE
+48:58.4,5.48E+18,10.0.77.228,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+48:58.6,1.21E+17,79.161.79.247,NO,Vestland,Stord,Android 2.3.3.2672,mobile,FALSE
+48:59.4,8.03E+18,10.0.77.225,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+49:00.4,-4.32E+18,10.0.3.166,CL,Aysén,Coyhaique,Chrome Mobile WebView 30.0.0.2265,mobile,FALSE
+49:00.7,7.47E+18,81.167.187.99,NO,Innlandet,Gran,Chrome 90.0.4411,desktop,FALSE
+49:00.9,-6.72E+18,81.166.247.72,NO,Rogaland,Vormedal,Android 2.3.3.2672,mobile,TRUE
+49:01.4,-7.94E+18,46.250.196.206,NO,Rogaland,Haugesund,Chrome 69.0.3497.17.19,desktop,TRUE
+49:01.7,5.64E+18,46.249.249.10,NO,Trøndelag,Stjordal,Chrome 90.0.4411,desktop,TRUE
+49:02.0,-2.10E+18,51.174.149.39,NO,Vestfold og Telemark,Horten,Edge 87.0.664,desktop,TRUE
+49:02.7,4.92E+18,199.26.84.61,US,-,-,Chrome Mobile 63.0.3239,mobile,FALSE
+49:03.2,8.54E+18,139.164.192.232,NO,-,-,Chrome 86.0.4202,desktop,TRUE
+49:03.8,-8.71E+18,79.160.114.173,NO,Møre og Romsdal,Molde,Chrome 69.0.3497.17.19,desktop,TRUE
+49:03.9,-4.32E+18,66.68.155.15,US,Texas,Wimberley,Chrome Mobile WebView 81.0.4044,mobile,FALSE
+49:04.7,-4.32E+18,185.82.200.131,AU,-,-,Chrome Mobile 71.0.3578.2896.2897,mobile,FALSE
+49:05.2,1.30E+18,158.149.2.16,NO,-,-,Chrome 69.0.3497.17.19,tablet,TRUE
+49:05.3,-4.32E+18,193.57.249.3,FR,-,-,Chrome 69.0.3497.17.19,desktop,FALSE
+49:05.8,-4.32E+18,209.42.202.168,GB,-,-,Chrome Mobile 81.0.4044.1943,mobile,FALSE
+49:06.6,-2.59E+18,77.72.129.12,AR,-,-,Chrome 37.0.2062.694,desktop,TRUE
+49:06.9,-4.32E+18,170.0.182.139,BZ,-,-,Chrome Mobile 81.0.4044.1949,mobile,FALSE
+49:07.5,-4.32E+18,79.161.71.15,NO,Vestland,Stord,Opera Mini 20.0.2254,tablet,FALSE
+49:08.4,-8.59E+18,51.175.211.164,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+49:09.5,-1.18E+18,194.42.110.102,PL,Lesser Poland,Krakow,Firefox 20.0.0.1618,mobile,TRUE
+49:11.2,6.43E+18,92.220.230.85,NO,Vestfold og Telemark,Sandefjord,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+49:11.7,-2.45E+18,10.2.69.14,NO,Oslo County,Oslo,Chrome 72.0.3626.82,desktop,TRUE
+49:12.2,4.16E+18,84.208.6.142,NO,Oslo County,Oslo,Chrome 86.0.4202,desktop,TRUE
+49:13.7,1.42E+18,139.164.70.97,NO,-,-,Android 2.3.3.2672,mobile,TRUE
+49:15.8,-3.22E+18,46.212.154.172,NO,Viken,Skjetten,Chrome 69.0.3497.17.19,desktop,TRUE
+49:16.4,-4.32E+18,66.68.155.15,US,Texas,Wimberley,Chrome Mobile WebView 81.0.4044,mobile,FALSE
+49:17.3,1.17E+17,141.0.99.199,NO,Troms og Finnmark,Harstad,Edge 81.0.416,desktop,TRUE
+49:18.5,4.37E+18,185.113.58.196,IR,-,-,Firefox 20.0.0.1618,mobile,TRUE
+49:19.3,9.16E+18,84.210.46.80,NO,Viken,Sarpsborg,Android 2.3.3.2672,mobile,FALSE
+49:20.4,-2.96E+18,10.1.29.229,NO,-,-,Chrome 86.0.4240.378,desktop,TRUE
+49:20.9,-2.59E+18,209.236.123.126,US,-,-,Chrome Mobile WebView 85.0.4183,mobile,TRUE
+49:21.7,-4.32E+18,103.250.137.188,IN,Gujarat,Ahmedabad,Chrome Mobile WebView 80.0.3987,mobile,FALSE
+49:21.7,4.61E+18,10.0.70.101,NO,Oslo County,Oslo,Chrome 69.0.3497.17.19,desktop,TRUE
+49:22.8,2.57E+18,80.202.55.142,NO,Oslo County,Oslo,Chrome 79.0.3945.192.203,desktop,TRUE
+49:23.3,6.14E+18,78.91.140.172,NO,-,-,Chrome 69.0.3497.17.19,desktop,TRUE
+49:23.6,7.41E+18,193.234.35.130,NO,-,-,Chrome 72.0.3626.56,desktop,TRUE

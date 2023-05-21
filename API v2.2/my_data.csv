@@ -1,0 +1,21 @@
+Login Timestamp,User ID,IP Address,Country,Region,City,Browser Name and Version,Device Type,Login Successful,Anomaly in IP Address,Anomaly in Country,Anomaly in Region,Anomaly in City,Anomaly in Browser Name and Version,Anomaly in Device Type
+44.30.05,-8.3e+18,82.147.58.93,NO,Oslo County,Oslo,Android 2.3.3.2672,mobile,True,-1,1,1,1,1,1
+44.45.05,-6.9e+18,176.107.153.76,PL,Mazovia,Warsaw,Chrome 79.0.3945.192.207,mobile,True,-1,-1,1,1,1,1
+45.31.02,7.31e+18,176.107.143.231,PL,Mazovia,Warsaw,Firefox 20.0.0.1681,mobile,True,-1,-1,1,1,1,1
+46.48.03,-2.59e+18,170.0.93.65,AR,Entre Rios,Gualeguaychú,Android 2.3.3.2672,mobile,True,-1,1,1,1,1,1
+46.51.03,-2.81e+18,77.106.138.231,NO,Innlandet,Lillehammer,Firefox 20.0.0.1673,mobile,True,1,1,1,1,-1,1
+46.55.05,9.19e+18,10.0.183.79,RO,Arges,Curtea de Arges,Chrome 69.0.3497.17.19,desktop,True,1,-1,1,1,1,1
+47.03.01,1.85e+18,23.137.225.177,US,,,Android 2.2.2.2634,mobile,True,1,1,1,1,-1,1
+47.03.08,3.69e+18,95.130.223.186,NO,Viken,Fornebu,Chrome Mobile WebView 85.0.4183,mobile,True,-1,1,1,1,1,1
+47.23.07,-1.53e+18,31.185.28.50,NO,Viken,Fetsund,Firefox 20.0.0.1673,mobile,True,1,1,1,1,-1,1
+47.41.07,-1.14e+18,82.194.215.54,NO,Trøndelag,Trondheim,Firefox 20.0.0.1618,mobile,True,-1,1,1,1,1,1
+47.42.03,9.06e+18,91.90.110.43,NO,,,Edge 87.0.664,desktop,True,-1,1,1,1,1,1
+48.00.03,5.26e+18,83.243.162.119,NO,Møre og Romsdal,Ålesund,Chrome 79.0.3945.192.203,desktop,True,1,1,1,-1,1,1
+48.03.00,-7.54e+16,95.169.39.203,NO,Innlandet,Tynset,Chrome 69.0.3497.17.19,desktop,True,-1,1,1,1,1,1
+48.33.08,4.75e+18,2.148.9.26,NO,Møre og Romsdal,Ålesund,Chrome 69.0.3497.17.19,desktop,True,-1,1,1,-1,1,1
+48.39.05,-5.69e+18,82.147.59.119,NO,Innlandet,Brumunddal,Chrome Mobile WebView 85.0.4183,mobile,True,-1,1,1,1,1,1
+48.49.09,-5.81e+18,109.74.179.126,NO,Oslo County,Oslo,Chrome 72.0.3626.86,desktop,True,1,1,1,1,-1,1
+49.09.05,-1.18e+18,194.42.110.102,PL,Lesser Poland,Krakow,Firefox 20.0.0.1618,mobile,True,1,-1,-1,1,1,1
+49.20.04,-2.96e+18,10.1.29.229,NO,,,Chrome 86.0.4240.378,desktop,True,1,1,1,1,-1,1
+49.23.06,7.41e+18,193.234.35.130,NO,,,Chrome 72.0.3626.56,Nuclear Lab,True,1,1,1,1,1,-1
+44.33.00,-4.32e+18,115.69.219.34,KO,President House,Unknown,Chrome Mobile WebView 85.0.4183,Intercontinental Missile,True,1,-1,-1,1,1,-1
