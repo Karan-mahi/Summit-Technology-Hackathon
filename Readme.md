@@ -40,3 +40,6 @@ This will start the backend server on http://localhost:5000.
 6. In the downloaded CSV file, -1 represents an anomaly and 1 represents a non-anomaly.
 
 Note: The application encodes non-numeric values to numeric types. Any null values in the data are removed before processing. The program may crash for files that are not in the UTF-8 encoding. Please note that LOF is a density-based algorithm and may not work well with datasets that have widely varying density. In the upcoming prototype, LOF will be replaced by Principle Component Analysis (PCA), and an inbuilt null value handling function will be introduced.
+
+# About API 3.0 (beta release)
+In this API api we tried to overcome the limitations of API 2.2 which was that was not considering anomalies caused by multiple columns for example: if a user usually logins from a country suddenly he changes his country than that would also be considered as an anomaly. Some featers of the API 2.2 was depricated to make it stable it currently does'nt have feature to train and detect anomalies from the two different dataset. It take data from a dataset and straight away prints anomalus values from that.
