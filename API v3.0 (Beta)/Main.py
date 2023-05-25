@@ -122,6 +122,9 @@ def detect_anomalies():
     find_anomalies_in_cluster(anomalies, df, 'User ID', 'Hours', "User Login outside usual time")
     find_anomalies_in_cluster(anomalies, df, 'Country', 'Hours', "Suspicious login time for this country")
     find_anomalies_in_cluster(anomalies, df, 'Country', 'Hours', "Suspicious login time for this country")
+    
+    '''Isolation forest won't work well for these anomalies switching to LoF ASAP'''
+    
     find_anomalies_in_cluster(anomalies, df, 'IP Address', 'Country_code', "IP Address doesn't match country")
     find_anomalies_in_cluster(anomalies, df, 'IP Address', 'Region_code', "Your Location Seems to change")
     find_anomalies_in_cluster(anomalies, df, 'IP Address', 'City_code', "Your Location Seems to change")
