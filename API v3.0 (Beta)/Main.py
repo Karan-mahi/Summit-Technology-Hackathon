@@ -1,3 +1,4 @@
+import json
 import pandas as pd
 import ipaddress
 import numpy as np
@@ -48,8 +49,8 @@ def find_anomalies_in_uid_time(anomalies, df):
     for _, row in df.iterrows():
         if row['User ID'] in models_uid_time:
             model = models_uid_time[row['User ID']]
-            y_pred = model.predict(np.array(row['Hours']).reshape(-1, 1))[0]
-            if y_pred == -1:
+            y_prediction = model.predict(np.array(row['Hours']).reshape(-1, 1))[0]
+            if y_prediction == -1:
                 anomalies.append({'Login Timestamp': row['Login Timestamp'],
                                   'User ID': row['User ID'],
                                   'IP Address': row['IP Address'],
@@ -65,13 +66,13 @@ def find_anomalies_in_uid_time(anomalies, df):
 def find_anomalies_in_cluster_iforest(anomalies, df, a, b, reason):
     # Create a dictionary where keys are the unique values of
     # column A and values are the corresponding values of column B
-    dict = {}
+    my_dict = {}
     for _, row in df.iterrows():
-        dict.setdefault(row[a], []).append(row[b])
+        my_dict.setdefault(row[a], []).append(row[b])
 
     # Create a new DataFrame where each row represents a unique value of column A
     # and the corresponding values of column B are represented as a list
-    new_df = pd.DataFrame(list(dict.items()), columns=[a, b])
+    new_df = pd.DataFrame(list(my_dict.items()), columns=[a, b])
     models = {}
     for _, row in new_df.iterrows():
         model = IsolationForest(n_estimators=100, contamination=0.05)
@@ -83,8 +84,8 @@ def find_anomalies_in_cluster_iforest(anomalies, df, a, b, reason):
     for _, row in df.iterrows():
         if row[a] in models:
             model = models[row[a]]
-            y_pred = model.predict(np.array(row[b]).reshape(-1, 1))[0]
-            if y_pred == -1:
+            y_prediction = model.predict(np.array(row[b]).reshape(-1, 1))[0]
+            if y_prediction == -1:
                 anomalies.append({'Login Timestamp': row['Login Timestamp'],
                                   'User ID': row['User ID'],
                                   'IP Address': row['IP Address'],
@@ -101,13 +102,13 @@ def find_anomalies_in_cluster_iforest(anomalies, df, a, b, reason):
 def find_anomalies_in_cluster_lof(anomalies, df, a, b, reason):
     # Create a dictionary where keys are the unique values of
     # column A and values are the corresponding values of column B
-    dict = {}
+    my_dict = {}
     for _, row in df.iterrows():
-        dict.setdefault(row[a], []).append(row[b])
+        my_dict.setdefault(row[a], []).append(row[b])
 
     # Create a new DataFrame where each row represents a unique value of column A
     # and the corresponding values of column B are represented as a list
-    new_df = pd.DataFrame(list(dict.items()), columns=[a, b])
+    new_df = pd.DataFrame(list(my_dict.items()), columns=[a, b])
     models = {}
     for _, row in new_df.iterrows():
         model = LocalOutlierFactor(n_neighbors=2, contamination=0.05, novelty=True)
@@ -122,8 +123,8 @@ def find_anomalies_in_cluster_lof(anomalies, df, a, b, reason):
         if row[a] in models:
             model = models[row[a]]
             x = np.array(row[b]).reshape(-1, 1)
-            y_pred = model.predict(x)
-            if y_pred == -1:
+            y_prediction = model.predict(x)
+            if y_prediction == -1:
                 anomalies.append({'Login Timestamp': row['Login Timestamp'],
                                   'User ID': row['User ID'],
                                   'IP Address': row['IP Address'],
@@ -138,7 +139,7 @@ def find_anomalies_in_cluster_lof(anomalies, df, a, b, reason):
 
 
 '''
-    This route is currently depricated in this version for development purposes
+    This route is currently deprecated in this version for development purposes
 '''
 
 
@@ -156,10 +157,14 @@ def detect_anomalies():
         return jsonify({'error': 'No file selected'})
 
     # Load the CSV file for training
-    df = pd.read_csv(file)
-    df = df.iloc[:50]  ##remove this
+    # Get the file from the HTTP request
+    file = request.files['file']
+    # Save the file to a temporary location
+    file.save('input.csv')
+    df = pd.read_csv('input.csv')
+    df = df.iloc[:50]  # remove this
     df = preprocess_data(df)
-    df.loc[0, 'Hours'] = 17.0  ##remove this
+    df.loc[0, 'Hours'] = 17.0  # remove this
     # for user - time relationship
     anomalies = []
     find_anomalies_in_cluster_iforest(anomalies, df, 'User ID', 'Hours', "User Login outside usual time")
@@ -174,10 +179,12 @@ def detect_anomalies():
                                   "Outdated/Suspicious browser")
     find_anomalies_in_cluster_lof(anomalies, df, 'Country', 'Device Type_code',
                                   "This device is rarely using in this country")
-    for i in anomalies:
-        print(i)
 
-    return jsonify({'message': 'Detected'})
+    # Open the file for writing (overwriting any existing file)
+    with open('result.txt', 'w') as f:
+        for i in anomalies:
+            f.write(json.dumps(i) + '\n\n')
+    return send_file('result.txt', mimetype='text/csv', as_attachment=True)
 
 
 if __name__ == '__main__':
