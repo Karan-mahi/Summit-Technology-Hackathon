@@ -145,7 +145,7 @@ def find_anomalies_in_cluster_lof(anomalies, df, a, b, reason):
 
 @app.route('/train_model', methods=['POST'])
 def train_model():
-    return jsonify({'message': 'Model trained successfully'})
+    return jsonify({'message': 'This feature is not available for beta versions'})
 
 
 @app.route('/detect_anomalies', methods=['POST'])
