@@ -10,7 +10,6 @@ from sklearn.neighbors import LocalOutlierFactor
 
 app = Flask(__name__)
 cors = CORS(app)
-encoder = LabelEncoder()
 
 
 def give_hours(time_str):
@@ -19,48 +18,13 @@ def give_hours(time_str):
 
 
 def preprocess_data(df):
-    df['IP Address'] = df['IP Address'].apply(str).apply(ipaddress.IPv4Address).apply(np.uint64)
+    encoder = LabelEncoder()
     categorical_features = ['Country', 'Region',
                             'City', 'Browser Name and Version', 'Device Type']
     for feature in categorical_features:
-        df[feature + "_code"] = encoder.fit_transform(df[feature])
+        df[feature+"_code"] = encoder.fit_transform(df[feature])
     df['Hours'] = df['Login Timestamp'].apply(give_hours)
     return df
-
-
-def find_anomalies_in_uid_time(anomalies, df):
-    # Create a dictionary where keys are the unique values of
-    # column A and values are the corresponding values of column B
-    uid_hour_dict = {}
-    for _, row in df.iterrows():
-        uid_hour_dict.setdefault(row['User ID'], []).append(row['Hours'])
-
-    # Create a new DataFrame where each row represents a unique value of column A
-    # and the corresponding values of column B are represented as a list
-    new_df = pd.DataFrame(list(uid_hour_dict.items()), columns=['User ID', 'Hours'])
-    models_uid_time = {}
-    for _, row in new_df.iterrows():
-        model = IsolationForest(n_estimators=100, contamination=0.05)
-        x = np.array(row['Hours']).reshape(-1, 1)
-        model.fit(x)
-        models_uid_time[row['User ID']] = model
-
-    # Predict anomalies in the original DataFrame
-    for _, row in df.iterrows():
-        if row['User ID'] in models_uid_time:
-            model = models_uid_time[row['User ID']]
-            y_prediction = model.predict(np.array(row['Hours']).reshape(-1, 1))[0]
-            if y_prediction == -1:
-                anomalies.append({'Login Timestamp': row['Login Timestamp'],
-                                  'User ID': row['User ID'],
-                                  'IP Address': row['IP Address'],
-                                  'Country': row['Country'],
-                                  'Region': row['Region'],
-                                  'City': row['City'],
-                                  'Browser Name and Version': row['Browser Name and Version'],
-                                  'Device Type': row['Device Type'],
-                                  'Login Successful': row['Login Successful'],
-                                  'reason': 'User Login on unusual time'})
 
 
 def find_anomalies_in_cluster_iforest(anomalies, df, a, b, reason):
